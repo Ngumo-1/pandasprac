@@ -1,0 +1,6 @@
+Name,Age,Salary,Join_Date,Department
+Alice,25,50000.0,2020-01-15,HR
+Bob,30,,2019-05-20,IT
+Charlie,,75000.0,wrong_format,Finance
+David,28,,,Sales
+Bob,unknown,90000.0,20220201,Marketing
